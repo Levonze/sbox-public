@@ -39,7 +39,7 @@ If you want to build from source, this repository includes all the necessary fil
 
 ```bash
 # Clone the repo
-git clone https://github.com/Facepunch/sbox-public.git
+git clone https://github.com/Levonze/sbox-public.git
 ```
 
 Once you've cloned the repo simply run `Bootstrap.bat` which will download dependencies and build the engine.
